@@ -27,7 +27,7 @@
         "algo-web/podata": "self.version",
         "cruxinator/class-finder": "1.0.0-RC2|dev-master",
         "doctrine/dbal": "^2.6",
-        "illuminate/http": "^7.0",
+        "illuminate/http": "^6.0|^7.0",
         "laravel/framework": "^7.0|^8.0",
         "symfony/http-foundation": "^4.0|^5.0",
         "symfony/yaml": "^4.0|^5.0"
